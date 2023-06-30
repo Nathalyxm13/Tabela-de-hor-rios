@@ -1,0 +1,65 @@
+/*reset de css -* seleciona todos os elementos */
+*{
+    margin: 4;
+    padding: 2;
+    border: 3;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+table td{
+    border-right: 2px solid black;
+    border-bottom: 2px solid black ;
+}
+
+.dias{
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+
+}
+
+.tec{
+    background-color: blueviolet;
+    text-align: center;
+}
+
+.math{
+    background-color: yellow;
+    text-align: center;
+}
+.haha{
+    background-color: rgb(100, 100, 245);
+    text-align: center;
+}
+.hihi{
+    background-color: orangered;
+    text-align: center;
+}
+.oii{
+    background-color: rgb(239, 95, 119);
+    text-align: center;
+}
+.hey{
+    background-color: pink;
+    text-align: center;
+}
+.hii{
+    background-color: rgb(213, 0, 233);
+    text-align: center;
+}
+.pp{
+    background-color: rgb(189, 72, 14);
+    text-align: center;
+}
+.pv{
+    background-color: rgb(14, 189, 177);
+    text-align: center;
+}
+.in{
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+
+}
